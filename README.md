@@ -5,7 +5,7 @@ This is a dataset containing over 21613 houses and their characteristics. The go
 
  
 
-1. Explore this dataset using what you have learned in data preprocessing and data visualization 
+1. Explore this dataset (https://drive.google.com/file/d/1Yf8pIkoJ0XG-Wz9T46wYRVobRhbOUtq8/view)using what you have learned in data preprocessing and data visualization 
 
 2. Write a paragraph selecting the most important features (feature selection). 
 
